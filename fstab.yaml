@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://https://author-p121603-e1341757.adobeaemcloud.com/bin/franklin.delivery/ankyadobe/anky-xwalk-demoapp/main"
+    url: "https://author-p121603-e1341757.adobeaemcloud.com/bin/franklin.delivery/ankyadobe/anky-xwalk-demoapp/main"
     type: "markup"
     suffix: ".html"
